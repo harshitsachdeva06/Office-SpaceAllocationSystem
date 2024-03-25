@@ -1,0 +1,23 @@
+Before every push we must pull data from git and then add our changes.
+In cases of merge conflicts we will see the changes we want and resolve accordingly.
+Objective is to prepare working backend and working UI on the day 1.
+On day 2 we will connect our repo to SQL with jpa and make additional changes accordingly.
+Final PPT will be created on the sunday after 8:00 p.m.
+If we win, we will prove to be best working team and collaborate for futhure much more projects. 
+So first we will build models in java and intialize working API's for get mapping and post mapping.
+
+Atul 
+Seat 
+space Allocation
+Employee Repo
+
+
+Atharva
+Department
+
+
+
+Aashi:
+Employee model
+Seat Repo
+

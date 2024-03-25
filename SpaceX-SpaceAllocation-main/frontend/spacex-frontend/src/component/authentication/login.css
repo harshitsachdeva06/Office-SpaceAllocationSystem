@@ -1,0 +1,33 @@
+.box{
+    border: 5px solid black;
+    padding: 30px;
+    border-radius: 8px;
+}
+.maindiv{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.outerDiv{
+   height: 100%;
+    margin: 12% 38%;
+    background-color: #accbff; 
+}
+.heading{
+    text-align: center;
+    font-weight: 900;
+}
+.btn-style{
+    text-align: center;
+    margin: 20px;
+}
+.form-group{
+    margin: 30px;
+}
+.form-style{
+    padding: 8px;
+}
+.form-control{
+    width:220px;
+}
